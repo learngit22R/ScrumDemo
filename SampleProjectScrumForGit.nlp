@@ -1,0 +1,16 @@
+# Project description file
+
+project.name=SampleProjectScrumForGit
+project.version=8.7
+project.original.version=8.7
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+product.version=9.2.1
+product.original.version=9.2.1
+project.is-open-test-settings-after-upload=false
+project.id=193d29f8-b017-47d2-b8d9-51dd1a0e75a6
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/learngit22R/ScrumDemo.git
